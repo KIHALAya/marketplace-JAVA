@@ -1,4 +1,4 @@
-package main.java.org.example.dao;
+package Model.DAO;
 
 public interface IClient {
     void ajouterAuPanier();

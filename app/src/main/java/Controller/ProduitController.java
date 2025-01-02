@@ -1,8 +1,8 @@
 package Controller;
 
 import Model.Metier.Produit;
-import Services.ImProduitService;
-import Services.ProduitService;
+import Model.Services.ImProduitService;
+import Model.Services.ProduitService;
 
 
 import javafx.fxml.FXML;

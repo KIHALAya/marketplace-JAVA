@@ -1,4 +1,4 @@
-package main.java.org.example.metier;
+package Model.Metier;
 
 import java.util.ArrayList;
 import java.util.List;

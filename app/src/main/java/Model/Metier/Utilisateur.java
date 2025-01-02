@@ -1,4 +1,4 @@
-package main.java.org.example.metier;
+package Model.Metier;
 
 public class Utilisateur {
     protected static int nb=0;

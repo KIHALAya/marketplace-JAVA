@@ -1,4 +1,4 @@
-package Services;
+package Model.Services;
 import Model.Metier.Produit;
 import Model.DAO.ProduitDAO;
 import java.util.List;

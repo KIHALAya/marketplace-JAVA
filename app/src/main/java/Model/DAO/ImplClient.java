@@ -1,4 +1,6 @@
-package main.java.org.example.dao;
+package Model.DAO;
+
+import Model.DAO.IClient;
 
 public class ImplClient implements IClient {
     @Override

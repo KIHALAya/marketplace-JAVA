@@ -1,6 +1,6 @@
-package main.java.org.example.dao;
+package Model.DAO;
 
-import main.java.org.example.metier.Utilisateur;
+import Model.Metier.Utilisateur;
 
 import java.sql.SQLException;
 
