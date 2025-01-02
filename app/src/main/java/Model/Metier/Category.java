@@ -1,0 +1,14 @@
+package Model.Metier;
+
+public enum Category {
+    ELECTRONICS,
+    CLOTHING,
+    BOOKS,
+    HOME_AND_KITCHEN,
+    BEAUTY_AND_PERSONAL_CARE,
+    SPORTS_AND_OUTDOORS,
+    TOYS_AND_GAMES,
+    HEALTH_AND_WELLNESS,
+    AUTOMOTIVE,
+    GROCERIES
+}
