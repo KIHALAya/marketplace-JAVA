@@ -1,5 +1,5 @@
-package Model.Services;
-import Model.Metier.Produit;
+package main.java.Model.Services;
+import main.java.Model.Metier.Produit;
 import java.util.List;
 
 public interface ProduitService {

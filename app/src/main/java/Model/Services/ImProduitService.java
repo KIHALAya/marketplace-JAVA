@@ -1,6 +1,6 @@
-package Model.Services;
-import Model.Metier.Produit;
-import Model.DAO.ProduitDAO;
+package main.java.Model.Services;
+import main.java.Model.Metier.Produit;
+import main.java.Model.DAO.ProduitDAO;
 import java.util.List;
 
 public abstract class ImProduitService implements ProduitService {

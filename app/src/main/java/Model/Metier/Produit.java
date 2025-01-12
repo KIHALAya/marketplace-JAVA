@@ -6,7 +6,7 @@ public class Produit {
     private String description;
     private double price;
     private int stock;
-    private Category category; // Updated to use the enum
+    private Category category;// Updated to use the enum
 
     // Constructors
     public Produit() {}
