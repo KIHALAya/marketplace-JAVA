@@ -1,4 +1,4 @@
-package Model.Metier;
+package main.java.Model.Metier;
 
 public class Produit {
     private int id;

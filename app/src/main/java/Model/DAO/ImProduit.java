@@ -1,7 +1,7 @@
-package Model.DAO;
+package main.java.Model.DAO;
 
-import Model.Metier.Produit;
-import Model.Metier.Category;
+import main.java.Model.Metier.Produit;
+import main.java.Model.Metier.Category;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;

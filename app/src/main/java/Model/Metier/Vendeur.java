@@ -1,4 +1,4 @@
-package Model.Metier;
+package main.java.Model.Metier;
 
 import java.util.ArrayList;
 import java.util.List;

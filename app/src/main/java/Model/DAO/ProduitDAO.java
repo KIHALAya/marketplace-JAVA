@@ -1,6 +1,6 @@
-package Model.DAO;
+package main.java.Model.DAO;
 
-import Model.Metier.Produit;
+import main.java.Model.Metier.Produit;
 import java.util.List;
 
 public interface ProduitDAO {
