@@ -13,7 +13,7 @@ public class Client extends Utilisateur{
 
     public Client(int ID, String nom,String prenom,String email,String motDePasse,String tele,Panier panier,ArrayList<Commande> Commandes,String AdresseLivraison){
         super(ID ,nom,prenom,email,motDePasse,tele);
-        this,panier=panier;
+        this.panier=panier;
         this.Commandes=new ArrayList<>();
         this.AdresseLivraison=AdresseLivraison;
 
@@ -21,7 +21,7 @@ public class Client extends Utilisateur{
     public Client(){
         super();
         this,panier=panier;
-        this.Commandes=new ArrayList<>();
+        this.Commandes= new ArrayList<>();
         this.AdresseLivraison=AdresseLivraison;
     }
 

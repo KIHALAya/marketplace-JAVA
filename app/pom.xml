@@ -18,7 +18,7 @@
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
-            <version>20</version> <!-- Use the latest version -->
+            <version>20</version>
         </dependency>
         <dependency>
             <groupId>org.openjfx</groupId>
@@ -26,6 +26,7 @@
             <version>20</version>
         </dependency>
     </dependencies>
+
     <build>
         <plugins>
             <plugin>
@@ -47,5 +48,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
